@@ -93,4 +93,4 @@ meta-product-manager/
 
 ## License
 
-[MIT](LICENSE)
+本项目基于 MIT 许可证开源 - 详情请参阅 [MIT](LICENSE) 文件。
